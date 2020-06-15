@@ -4,3 +4,4 @@
 - cd task-backend
 - mvn clean install
 - mvn spring-boot:run
+- open `http://localhost:8081/`
